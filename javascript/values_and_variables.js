@@ -8,9 +8,7 @@
   5. Undefined
   6. Symbol
   7. BigInt
-*/
 
-/*
   NUMBERS
 
   js only has one type of number, where other languages have different types for different numbers.
