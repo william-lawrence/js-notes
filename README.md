@@ -1,6 +1,7 @@
 # JavaScript Notes
 
-These are my notes that I made while brushing up on JS. Each section is outlined here, and there are examples in the javascript file.
+These are my notes that I made while brushing up on JS. Each section is
+outlined here, and there are examples in the javascript file.
 
 ## Basics
 
@@ -20,9 +21,12 @@ There are 5 basic primitive types along with two other less used type:
 
 ### Variables
 
-There are two common ways to create variables in JS, `let` and `const`. We camelCase for variables in JS. We can only have one of a variable in a given scope. Variables declared with `const` can't be updated.
+There are two common ways to create variables in JS, `let` and `const`. We use
+camelCase for variables in JS. We can only have one of a variable in a given
+scope. Variables declared with `const` can't be updated.
 
-`var` was the old way that was used to create variables. There is basically no good reason to use it over `let` and `const`.
+`var` was the old way that was used to create variables. There is basically no
+good reason to use it over `let` and `const`.
 
 ### Unary Operators
 
@@ -30,5 +34,12 @@ We can use `++`, `+=` and other such syntax.
 
 ### Booleans
 
-These are values that are either `true` of `false`. These pop up a lot. However, they operate the same way that booleans
+These are values that are either `true` of `false`. These pop up a lot. However,
+they operate the same way that booleans
 operate in other languages.
+
+### Strings
+
+Strings are just text. "Strings" of characters.
+
+We can use some operators with strings, but they are different than math operators.
