@@ -3,6 +3,8 @@
 These are my notes that I made while brushing up on JS. Each section is
 outlined here, and there are examples in the javascript file.
 
+Lots of good stuff can be found in the [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## Basics
 
 ### Types
@@ -42,4 +44,14 @@ operate in other languages.
 
 Strings are just text. "Strings" of characters.
 
-We can use some operators with strings, but they are different than math operators.
+We can use some operators with strings, but they are different than math
+operators.
+
+Strings are indexed. Each character has a number in the string. The first index
+is always `0`.
+
+Every string has a property called `.length`.
+
+Strings are immutable in JS.
+
+There are all sorts of useful methods that we can use on strings.
