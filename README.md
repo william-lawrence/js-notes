@@ -55,3 +55,11 @@ Every string has a property called `.length`.
 Strings are immutable in JS.
 
 There are all sorts of useful methods that we can use on strings.
+
+There are also string characters, but these are pretty normal
+
+### Null and Undefined
+
+`null`: intentional absence of any value. Must be assigned.
+`undefined`: Variable that does not have a defined value are undefined.
+
